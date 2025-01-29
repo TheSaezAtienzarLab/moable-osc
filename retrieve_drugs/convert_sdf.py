@@ -75,5 +75,5 @@ def process_sdf(sdf_text, output_file="output.csv"):
 
 # Example usage:
 with open('/users/PAS2598/duarte63/GitHub/moable-osc/data/structures.sdf', 'r') as f:
-     sdf_text = f.read()
- df = process_sdf(sdf_text, '/users/PAS2598/duarte63/GitHub/moable-osc/data/drugs.csv')
+    sdf_text = f.read()
+df = process_sdf(sdf_text, '/users/PAS2598/duarte63/GitHub/moable-osc/data/drugs.csv')

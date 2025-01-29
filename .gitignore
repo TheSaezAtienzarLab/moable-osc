@@ -147,11 +147,17 @@ dmypy.json
 Thumbs.db
 
 # profiling data
-.prof
+.pf
 
 data/GP_embedding_dict.pkl
 
 GSEA_Prerank/
+
+GP_embedding_dict.zip
+moable.pth
+data/output
+
+
 
 
 # End of https://www.toptal.com/developers/gitignore/api/python
